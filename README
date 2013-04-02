@@ -1,0 +1,8 @@
+Installation:
+1) Place contents of this directory in your moodle/filter directory.
+2) Download ChemAxons "Marvin for Web Developers" and install in directory called marvin at your web root.
+If you don't want to install there make change to filter.php.
+3) Visit your sites Notification to update database and install filter.
+4) If you haven't done so already download and install tinymce plugin moodle-tinymce_eomarvin2d.
+
+Use:  This filter opens all ChemAxons Marvin .mrv data between <mar></mar> tags with 2D MarvinView applet. 
